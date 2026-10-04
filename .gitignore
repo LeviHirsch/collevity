@@ -46,3 +46,4 @@ known_hosts
 .dev/
 TASKS.md
 board
+/board
